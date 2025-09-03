@@ -49,7 +49,7 @@ profile repository
 
 ## 📫 Контакт
 - GitHub: [github.com/StefanTananov](#)  
-- Email: *тук можеш да добавиш свой имейл за проекти*  
+- Email: s.tananov@yahoo.com  
 
 ---
 
