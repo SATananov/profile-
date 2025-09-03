@@ -1,5 +1,4 @@
-# profile-
-profile repository
+
 ![TANASHI Banner](./banner.png)
 
 # 👋 Здрасти, аз съм Stefan Tananov (aka TANASHI)  
